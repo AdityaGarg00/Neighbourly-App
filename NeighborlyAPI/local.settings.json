@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobs.getnotes.Disabled": "true",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "450ec3c7-4c71-4f64-aff6-c2ce646fc919",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=450ec3c7-4c71-4f64-aff6-c2ce646fc919;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=neighborlystorage1;AccountKey=VWUcBjuxnTWYtyOgP0rPa5Y9uQ+iA4MLDheKlW0cSaYEHixWQVBbcqchWGgZX0hbKoC5mOFZhuq+beW4Lk7DAA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "MyDbConnection": "mongodb://neighborlystorage2:U4zM40yQg10wsdaLtfLBBV6CwKwkzTG36ddy7ejiR1uIVBySP8EiAQHKLtopbwJ3ihRyTYlgHB8SFyCvcQeQvA==@neighborlystorage2.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlystorage2@",
+    "EventHubConnString":"Endpoint=sb://adi-neighborly.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=LxxezpZdO/9ezXZiAezBUgVf0h2s0kUdpJjkNHWK2XQ="
+  },
+  "ConnectionStrings": {}
+}
