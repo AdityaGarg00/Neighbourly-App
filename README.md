@@ -235,10 +235,3 @@ API_URL="https://<APP_NAME>.azurewebsites.net/api"
 Before completing this step, make sure to have taken all necessary screenshots for the project! Check the rubric in the classroom to confirm.
 
 Clean up and remove all services, or else you will incur charges.
-
-```bash
-# replace with your resource group
-RESOURCE_GROUP="<YOUR-RESOURCE-GROUP>"
-# run this command
-az group delete --name $RESOURCE_GROUP
-```
